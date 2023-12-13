@@ -8,6 +8,7 @@
   },
   "homepage": "https://viclafouch.github.io/mui-tel-input",
   "version": "5.0.0",
+  "type": "module",
   "files": [
     "dist"
   ],
